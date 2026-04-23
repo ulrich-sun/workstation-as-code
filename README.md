@@ -269,7 +269,7 @@ Ce projet est distribué sous la licence **MIT**. Voir le fichier [LICENSE](LICE
 **Ulrich Steve Noumsi** — *Ingénieur DevOps / Cloud Automation*
 
 <p>
-  <a href="https://github.com/ulrich-sun"><img src="https://img.shields.io/badge/GitHub-votre--username-181717?style=flat-square&logo=github"/></a>
+  <a href="https://github.com/ulrich-sun"><img src="https://img.shields.io/badge/GitHub-ulrich-sun-181717?style=flat-square&logo=github"/></a>
   <a href="https://linkedin.com/in/votre-profil"><img src="https://img.shields.io/badge/LinkedIn-Ulrich%20Steve%20Noumsi-0A66C2?style=flat-square&logo=linkedin"/></a>
   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-The%20Automation%20Ledger-FF0000?style=flat-square&logo=youtube"/></a>
 </p>

@@ -1,0 +1,43 @@
+# ============================================================
+#  VSCODE EXTENSIONS — Workstation As Code
+#  Format: publisher.extension-id
+#  Prefix line with # to disable
+# ============================================================
+
+# ─── Core DevOps ────────────────────────────────────────────
+ms-vscode.PowerShell
+ms-azuretools.vscode-docker
+HashiCorp.terraform
+
+# ─── Kubernetes & Cloud ─────────────────────────────────────
+redhat.vscode-yaml
+ms-kubernetes-tools.vscode-kubernetes-tools
+#redhat.ansible
+
+# ─── Git & Collaboration ────────────────────────────────────
+eamodio.gitlens
+GitHub.vscode-pull-request-github
+
+# ─── Remote Development ─────────────────────────────────────
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-containers
+
+# ─── Cloud Providers ────────────────────────────────────────
+#AmazonWebServices.aws-toolkit-vscode
+#ms-vscode.vscode-node-azure-pack
+
+# ─── Security / DevSecOps ───────────────────────────────────
+Bridgecrew.checkov
+snyk-security.snyk-vulnerability-scanner
+
+# ─── Code Quality ───────────────────────────────────────────
+esbenp.prettier-vscode
+usernamehw.errorlens
+#ms-vscode.live-server
+
+# ─── API Testing ────────────────────────────────────────────
+#rangav.vscode-thunder-client
+
+# ─── AI Assistant ───────────────────────────────────────────
+#GitHub.copilot
+#GitHub.copilot-chat

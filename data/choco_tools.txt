@@ -1,0 +1,66 @@
+# ============================================================
+#  CHOCO TOOLS — Workstation As Code
+#  Format: package-id:version  (omit version = latest)
+#  Prefix line with # to disable
+# ============================================================
+
+# ─── Infrastructure as Code ─────────────────────────────────
+terraform:
+terragrunt:latest
+packer:latest
+#pulumi:latest
+
+# ─── Configuration Management ───────────────────────────────
+ansible:latest
+
+# ─── Containers & Orchestration ─────────────────────────────
+#docker-desktop:latest
+kubernetes-cli:1.31.2
+kubernetes-helm:4.1.3
+k9s:latest
+kubectx:latest
+kustomize:latest
+#skaffold:latest
+
+# ─── Monitoring & Load Testing ──────────────────────────────
+#stern:latest
+k6:latest
+
+# ─── Cloud CLI ──────────────────────────────────────────────
+azure-cli:latest
+awscli:latest
+#gcloudsdk:latest
+#aws-sam-cli:latest
+
+# ─── CI/CD ──────────────────────────────────────────────────
+gh:latest
+#glab:latest
+#act-cli:latest
+#argocd-cli:latest
+#flux:latest
+
+# ─── Security / DevSecOps ───────────────────────────────────
+#trivy:latest
+#tfsec:latest
+#vault:latest
+#sops:latest
+#snyk:latest
+#grype:latest
+
+# ─── Essential CLI Tools ────────────────────────────────────
+jq:latest
+yq:latest
+make:latest
+#go-task:latest
+#direnv:latest
+
+# ─── Runtimes ───────────────────────────────────────────────
+python:latest
+#nodejs-lts:latest
+#golang:latest
+#temurin17jre:latest
+#rustup.install:latest
+
+# ─── Networking / SSH ───────────────────────────────────────
+#winscp:latest
+#putty:latest

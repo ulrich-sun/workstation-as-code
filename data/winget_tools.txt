@@ -1,0 +1,37 @@
+# ============================================================
+#  WINGET TOOLS — Workstation As Code
+#  Format: Package.Id:version  (omit version = latest)
+#  Prefix line with # to disable
+# ============================================================
+
+# ─── Base Professional Apps ─────────────────────────────────
+Microsoft.VisualStudioCode:latest
+Git.Git:2.54.0
+Vivaldi.Vivaldi:latest
+Slack.Slack:latest
+
+# ─── Windows Productivity ───────────────────────────────────
+Microsoft.WindowsTerminal:latest
+Microsoft.PowerToys:latest
+
+# ─── API & Testing ──────────────────────────────────────────
+Postman.Postman:latest
+#Kong.Insomnia:latest
+
+# ─── Containers & DevOps GUI ────────────────────────────────
+#Mirantis.Lens:latest
+#RedHat.Podman:latest
+
+# ─── Diagramming & Documentation ────────────────────────────
+JGraph.Draw:latest
+#Notion.Notion:latest
+#Obsidian.Obsidian:latest
+
+# ─── Security ───────────────────────────────────────────────
+KeePassXCTeam.KeePassXC:latest
+
+# ─── Media / Recording ──────────────────────────────────────
+OBSProject.OBSStudio:latest
+
+# ─── Security Testing ───────────────────────────────────────
+#ZAP.ZAP:latest

@@ -67,7 +67,7 @@ workstation-as-code/
 
 1. **Cloner le dépôt**
    ```powershell
-   git clone https://github.com/<votre-username>/workstation-as-code.git
+   git clone https://github.com/ulrich-sun/workstation-as-code.git
    cd workstation-as-code
    ```
 
@@ -260,7 +260,7 @@ Ce projet est distribué sous la licence **MIT**. Voir le fichier [LICENSE](LICE
 | 07 | Gestion des secrets — HashiCorp Vault + SOPS | 🔐 Security | 🔜 Planifié |
 | 08 | Compliance as Code avec OPA + CIS Benchmarks | 📝 Compliance | 🔜 Planifié |
 
-🎬 **Suivre la série** : [YouTube — The Automation Ledger](https://www.youtube.com/@votre-chaine)
+🎬 **Suivre la série** : [YouTube — The Automation Ledger](https://youtu.be/kPrKhGUD82g)
 
 ---
 
@@ -271,7 +271,7 @@ Ce projet est distribué sous la licence **MIT**. Voir le fichier [LICENSE](LICE
 <p>
   <a href="https://github.com/votre-username"><img src="https://img.shields.io/badge/GitHub-votre--username-181717?style=flat-square&logo=github"/></a>
   <a href="https://linkedin.com/in/votre-profil"><img src="https://img.shields.io/badge/LinkedIn-Ulrich%20Steve%20Noumsi-0A66C2?style=flat-square&logo=linkedin"/></a>
-  <a href="https://www.youtube.com/@votre-chaine"><img src="https://img.shields.io/badge/YouTube-The%20Automation%20Ledger-FF0000?style=flat-square&logo=youtube"/></a>
+  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-The%20Automation%20Ledger-FF0000?style=flat-square&logo=youtube"/></a>
 </p>
 
 ---

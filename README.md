@@ -8,7 +8,7 @@
 
 <p align="center">
   <strong>📼 The Automation Ledger — DevOps & Cloud Series</strong><br/>
-  <sub>Episode #1 · par <strong>Ulrich Steve Noumsi</strong> · Ingénieur DevOps / Cloud Automation</sub>
+  <sub>Episode #1 · par <strong>Ulrich Steve Noumsi</strong> · Ingénieur DevSecOps / Cloud Automation</sub>
 </p>
 
 ---
@@ -266,12 +266,12 @@ Ce projet est distribué sous la licence **MIT**. Voir le fichier [LICENSE](LICE
 
 ## 👤 Auteur
 
-**Ulrich Steve Noumsi** — *Ingénieur DevOps / Cloud Automation*
+**Ulrich Steve Noumsi** — *Ingénieur DevSecOps / Cloud Automation *
 
 <p>
-  <a href="https://github.com/ulrich-sun"><img src="https://img.shields.io/badge/GitHub-ulrich-sun-181717?style=flat-square&logo=github"/></a>
-  <a href="https://linkedin.com/in/votre-profil"><img src="https://img.shields.io/badge/LinkedIn-Ulrich%20Steve%20Noumsi-0A66C2?style=flat-square&logo=linkedin"/></a>
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-The%20Automation%20Ledger-FF0000?style=flat-square&logo=youtube"/></a>
+  <a href="https://github.com/ulrich-sun"><img src="https://img.shields.io/badge/GitHub-Ulrich--Steve NOUMSI-181717?style=flat-square&logo=github"/></a>
+  <a href="https://ca.linkedin.com/in/ulrich-steve-noumsi"><img src="https://img.shields.io/badge/LinkedIn-Ulrich%20Steve%20Noumsi-0A66C2?style=flat-square&logo=linkedin"/></a>
+  <a href="https://www.youtube.com/@SUNDATACONSULTING"><img src="https://img.shields.io/badge/YouTube-The%20Automation%20Ledger-FF0000?style=flat-square&logo=youtube"/></a>
 </p>
 
 ---
